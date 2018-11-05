@@ -5,7 +5,6 @@ C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\B
 C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\bin\Debug\netcoreapp2.1\BookList.pdb
 C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\bin\Debug\netcoreapp2.1\BookList.Views.dll
 C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\bin\Debug\netcoreapp2.1\BookList.Views.pdb
-C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\obj\Debug\netcoreapp2.1\BookList.csprojAssemblyReference.cache
 C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\obj\Debug\netcoreapp2.1\BookList.csproj.CoreCompileInputs.cache
 C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\obj\Debug\netcoreapp2.1\BookList.RazorAssemblyInfo.cache
 C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\obj\Debug\netcoreapp2.1\BookList.RazorAssemblyInfo.cs
@@ -35,3 +34,6 @@ C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\B
 C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\obj\Debug\netcoreapp2.1\Razor\Views\Books\Details.g.cshtml.cs
 C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\obj\Debug\netcoreapp2.1\Razor\Views\Books\Delete.g.cshtml.cs
 C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\obj\Debug\netcoreapp2.1\Razor\Views\Books\Edit.g.cshtml.cs
+C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\obj\Debug\netcoreapp2.1\BookList.csprojAssemblyReference.cache
+C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\obj\Debug\netcoreapp2.1\Razor\Views\Shop\Create.g.cshtml.cs
+C:\Users\Karol\source\repos\MvcTraining\MVCTrainingApps\Bhrugen Patel\BookList\BookList\obj\Debug\netcoreapp2.1\Razor\Views\Shop\Index.g.cshtml.cs

@@ -12,5 +12,7 @@ namespace BookList.Models
         {  }
 
         public DbSet<Book> Books { get; set; }
+
+        public DbSet<Shop> Shops { get; set; }
     }
 }
